@@ -1,0 +1,8 @@
+{"progweb":[
+    {"prenom":"Jean", "nom":"Georges", "prog":"7316","insc":"","total":"95","note":"A+"},
+    {"prenom":"Sarah", "nom":"Marcel", "prog":"4702","insc":"XX","total":"","note":""},
+      {"prenom":"Paul", "nom":"Wu", "prog":"7316","insc":"","total":"74","note":"B+"},
+      {"prenom":"Vincent", "nom":"El Mohamet", "prog":"7316","insc":"","total":"90","note":"A+"},
+      {"prenom":"Marie", "nom":"Pirlot", "prog":"7316","insc":"","total":"65","note":"C"},
+      {"prenom":"Sarah", "nom":"Georges", "prog":"7316","insc":"","total":"45","note":"E"}
+  ]}
